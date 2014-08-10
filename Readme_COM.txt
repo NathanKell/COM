@@ -34,9 +34,9 @@ This mod was developed to support Crotchety Old Modders in our fulfillment of th
 *DynaSoar parts (a nose, a cockpit, a crew hab module, a service module/fueltank)
 *Earth Return Vehicle (a lightened six-person Apollo capsule)
 *LR-87LH2 (Aerojet's successful project in the late 1950s to adapt the LR-87 to hydrolox)
-*MEM parts (rescaled heatshield, capsule, etc)
+*MEM parts (rescaled/statted heatshield, capsule, etc)
 *MHM heatshield
-*NERVA 300kN (with notional late-1970s performance characterists extrapolated from existing stats)
+*NERVA 300kN (with notional late-1970s performance characteristics extrapolated from existing stats)
 *Mass changes for Procedural Fairings (and a flattened version of the interstage)
 *A larger TACLS purifier, meant for the MHM and the FRV stack.
 
