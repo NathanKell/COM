@@ -1370,8 +1370,8 @@ PART
 	sqor = -1
 	attm = 0
 	modCost = 0
-	link = FASAApollo.CM_4294711966
-	attN = top,FASAApollo.CM_4294711966
+	link = erv.capsule_4294711966
+	attN = top,erv.capsule_4294711966
 	attN = bottom,FASAApollo.CM.Decoupler_4294712166
 	EVENTS
 	{
@@ -1446,7 +1446,7 @@ PART
 }
 PART
 {
-	part = FASAApollo.CM_4294711966
+	part = erv.capsule_4294711966
 	partName = Part
 	pos = -0.1898582,82.2223,0.658976
 	rot = -2.88994E-08,0.2588191,5.748474E-09,-0.9659259
@@ -2002,7 +2002,7 @@ PART
 	sqor = 0
 	attm = 0
 	modCost = 0
-	attN = connect,FASAApollo.CM_4294711966
+	attN = connect,erv.capsule_4294711966
 	EVENTS
 	{
 	}
@@ -2096,7 +2096,7 @@ PART
 	modCost = 0
 	link = dockingPort2Stock_4294710910
 	attN = top,dockingPort2Stock_4294710910
-	attN = bottom,FASAApollo.CM_4294711966
+	attN = bottom,erv.capsule_4294711966
 	EVENTS
 	{
 	}
