@@ -23,10 +23,11 @@ Requirements:
 *Taurus Capsule
 *TiberDyne Shuttles (just the nosecones)
 *Reaching for the Clouds by NathanKell
-*Kommit Nucleonics (in particular the smallest NTR, the ltby5000; the others aren't touched)
+*FTmN Atomic Rockets (in particular the smallest NTR, the ltby5000; the others aren't touched)
+*HotRockets
 
 Description:
-This mod was developed to support Crotchety Old Modders in our fulfillment of the Mars mission challenge in the Kerbin Cup. It includes the follow additions and changes:
+This mod was developed to support Crotchety Old Modders in our fulfillment of the Mars mission challenge in the Kerbin Cup. It includes the following additions and changes:
 *Redone FX by ferram4 for all engines we used, with proper underexpansion effects
 *The AJ10-131 (subscale SPS), used in COM-verse Gemini
 *A redone Gemini Service Module used in COM-verse Gemini
@@ -35,8 +36,8 @@ This mod was developed to support Crotchety Old Modders in our fulfillment of th
 *Earth Return Vehicle (a lightened six-person Apollo capsule)
 *LR-87LH2 (Aerojet's successful project in the late 1950s to adapt the LR-87 to hydrolox)
 *MEM parts (rescaled/statted heatshield, capsule, etc)
-*MHM heatshield
-*NERVA 300kN (with notional late-1970s performance characteristics extrapolated from existing stats)
+*MHM parts and heatshield
+*AJW3-N130: a 300kN NERVA Project NTR (with notional late-1970s performance characteristics extrapolated from existing stats)
 *Mass changes for Procedural Fairings (and a flattened version of the interstage)
 *A larger TACLS purifier, meant for the MHM and the FRV stack.
 
